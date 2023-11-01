@@ -11,13 +11,17 @@ Actualmente soy Analista de Datos en busca de afrontar nuevos retos y proyectos 
 ✨ _¿QUE PUEDO APORTAR?_ ✨
 
 📌 Esfuerzo, entusiasmo y dedicación en todas mis actividades, así como cuento con la habilidad para trabajar en equipo.
+
 📌 Estoy acostumbrada a asumir responsabilidades y tomar decisiones con un enfoque centrado al cliente.
+
 📌 Gran capacidad de organización, planificación, adaptación al cambio y resolución de conflictos e incidencias.
 
 ✨ _¿QUE ME DIFERENCIA?_ ✨
 
 👉🏻 Capacidad de adaptación a diversas actividades profesionales de forma exitosa a través del autoaprendizaje y la búsqueda de recursos.
+
 👉🏻 Disfruto investigar nuevos herramientas y enfoques para aportar valor agregado a mi trabajo.
+
 👉🏻 Me enfoco en alcanzar mis objetivos de manera proactiva.
 
  ¡Acompáñame en este emocionante viaje hacia un futuro basado en datos! 💼🚀🔍📈
