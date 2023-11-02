@@ -10,8 +10,8 @@ Me presento como contadora pública, apasionada de la tecnología, con un enfoqu
 
 ## 💻 Mi espacio de trabajo:
 
-[![.](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
-[.](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+[!(https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+[!(https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 
 ## _¡Acompáñame en este emocionante viaje hacia un futuro basado en datos!_ 💼🚀🔍📈
