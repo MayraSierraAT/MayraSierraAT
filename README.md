@@ -1,18 +1,18 @@
 ## Un poco más sobre mi:
 
-Me presento como contadora pública, apasionada de la tecnología, con un enfoque especial en analisis de datos 📊. Soy amante del aprendizaje y me encuentro en un continuo proceso de mejora ⚙️.
+Me presento como Contadora Pública especializada en Análisis de Datos 📊. Soy apasionada de la tecnología, amante del aprendizaje y me encuentro en un continuo proceso de mejora ⚙️.
 
 [![Linkedin: mayrasierraat](https://img.shields.io/badge/-mayrasierraat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayrasierraat/)](https://www.linkedin.com/in/mayrasierraat/)
 [![Gmail: mayrasierraat@gmail.com](https://img.shields.io/badge/Gmail-mayrasierraat@gmail.com-red)](mailto:mayrasierraat@gmail.com)
 
 Algunos datos sobre mi:
 
-- 🔭 Creando proyectos ...
-- 🌱 Egresada de Data Science en el bootcamp de HENRY
-- 👯 Me gusta socializar y trabajar en equipo
-- 😄 Me encantan los libros y las mascotas
-- ⚡ Prefiero el orden, y que las cosas luzcan bonitas, para que puedan entenderse mejor
-
+- 🔭 Elaborando proyectos centrados en la creación de insights y la presentación visual de datos para impulsar estrategias de Business Intelligence (BI).
+- 📚 En continuo aprendizaje.
+- 🌱 Disfruto explorando conjuntos de datos por diversión y creando visualizaciones para obtener información útil.
+- 😄 Disfruto de actividades al aire libre como caminar. Esta afición me proporciona un tiempo para desconectar, reflexionar y recargar energías
+- ⚡ Prefiero el orden y la estética en mi trabajo, considero que una presentación visual clara y atractiva facilita la comprensión.
+  
 ## Conjunto de habilidades:
 
 - 💻 &nbsp;
