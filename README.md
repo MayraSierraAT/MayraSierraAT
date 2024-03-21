@@ -1,4 +1,4 @@
-## Un poco más sobre mi:
+## Hola, Soy Mayra Sierra
 
 Me presento como Contadora Pública especializada en Análisis de Datos 📊. Soy apasionada de la tecnología, amante del aprendizaje y me encuentro en un continuo proceso de mejora ⚙️.
 
